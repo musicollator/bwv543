@@ -6,6 +6,10 @@
 \include "3_voice_tenor_part_absolute.ly"
 \include "4_voice_bass_part_absolute.ly"
 
+\header {
+  tagline = ##f
+}
+
 bwvFivehundredFortyThree = {
   <<
       \new Staff = "soprano" \with {
