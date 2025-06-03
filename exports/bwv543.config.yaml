@@ -12,6 +12,6 @@ files:
   audioPath: "bwv543_202506030923-80bpm.mp3"
   
 musicalStructure:
-  totalDurationSeconds: 340.0
+  totalDurationSeconds: 338.0
   totalBars: 151
   visualLeadTimeSeconds: 0.2
