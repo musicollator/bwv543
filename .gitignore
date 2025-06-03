@@ -1,5 +1,6 @@
 __pycache__/
 .build_cache.json
+.DS_Store
 *.csv
 *.log
 *.mid
