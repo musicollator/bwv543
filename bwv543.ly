@@ -54,6 +54,7 @@
           \\context {
             \\Score
             \\override StaffHighlight.after-line-breaking = #add-data-bar-to-highlight
+            \\override BarNumber.extra-offset = #'(1.5 . 0)
           }")
            )
     }
