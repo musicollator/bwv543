@@ -6,6 +6,23 @@ meta:
   maxMoment: 152
   musicStartSeconds: 0.0
   tickToSecondRatio: 0.001952377667402502
+  channels:
+    0:
+      minPitch: 60
+      maxPitch: 84
+      count: 945
+    1:
+      minPitch: 40
+      maxPitch: 78
+      count: 959
+    2:
+      minPitch: 43
+      maxPitch: 71
+      count: 679
+    3:
+      minPitch: 36
+      maxPitch: 62
+      count: 477
 
 flow:
 - [0, None, 1, bar]
