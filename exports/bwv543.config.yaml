@@ -15,5 +15,5 @@ musicalStructure:
   silenceAtStartSeconds: 0.0243333
   totalDurationSeconds: 339.62
   totalMeasures: 152
-  visualLeadTimeSeconds: 0
+  visualLeadTimeSeconds: 0.1
 
