@@ -14,6 +14,6 @@ files:
 musicalStructure:
   silenceAtStartSeconds: 0.0243333
   totalDurationSeconds: 339.62
-  totalBars: 152
+  totalMeasures: 152
   visualLeadTimeSeconds: 0
 
