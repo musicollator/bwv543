@@ -7,8 +7,6 @@ workInfo:
   externalURL: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_A_minor,_BWV_543"
 
 files:
-  svgPath: "bwv543_optimized.svg"
-  notesPath: "bwv543_json_notes.json"
   audioPath: "bwv543_202506030923-80bpm.mp3"
   
 musicalStructure:
