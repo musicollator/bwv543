@@ -10,7 +10,7 @@
   tagline = ##f
 }
 
-bwvFivehundredFortyThree = {
+bwv = {
   <<
       \new Staff = "soprano" \with {
         instrumentName = \markup \right-column {
