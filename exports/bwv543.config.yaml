@@ -1,9 +1,9 @@
 workInfo:
-  title: "Fuga BWV 543"
+  title: "Fugue BWV 543"
   fullTitle: "Prelude and Fugue in A minor, BWV 543"
   composer: "J.S. Bach"
   workId: "bwv543"
-  movementName: "Fuga"
+  movementName: "Fugue"
   externalURL: "https://en.wikipedia.org/wiki/Prelude_and_Fugue_in_A_minor,_BWV_543"
 
 files:
